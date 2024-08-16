@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shenzhen China"
+locale                   : "Shenzhen, China"
 title                    : "Yiwei Dong / Personal Website"
 title_separator          : "-"
 name                     : &name "Yiwei Dong"
@@ -25,7 +25,7 @@ author:
   name             : "Yiwei Dong"
   pronouns         : # example: "she/her"  
   bio              : "The harder you work, the luckier you are."
-  location         : "Shenzhen China"
+  location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   uri              : # URL
   email            : "yiwei_d@163.com" 
