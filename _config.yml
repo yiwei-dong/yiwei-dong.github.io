@@ -21,7 +21,7 @@ repository               : "yiwei-dong/yiwei-dong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./id_photo.png"
+  avatar           : "id_photo.png"
   name             : "Yiwei Dong"
   pronouns         : # example: "she/her"  
   bio              : "The harder you work, the luckier you are."
