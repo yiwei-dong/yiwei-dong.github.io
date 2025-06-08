@@ -6,6 +6,29 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
+  <style>
+    .author__urls {
+      display: flex;
+      align-items: center; /* 垂直居中 */
+      justify-content: flex-start; /* 水平起始对齐 */
+      gap: 10px; /* 图标之间的间距 */
+      list-style: none; /* 去掉默认的列表样式 */
+      padding: 0; /* 去掉默认的内边距 */
+      margin: 0; /* 去掉默认的外边距 */
+    }
+    .author__urls li {
+      display: flex;
+      align-items: center; /* 垂直居中 */
+    }
+    .author__urls li a {
+      text-decoration: none; /* 去掉默认的链接下划线 */
+      color: inherit; /* 继承父元素的颜色 */
+    }
+    .author__urls li i {
+      margin-right: 5px; /* 图标和文本之间的间距 */
+    }
+  </style>
+
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
