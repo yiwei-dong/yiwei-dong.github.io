@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shenzhen, China"
+locale                   : "Singapore"
 title                    : "Yiwei Dong / Personal Website"
 title_separator          : "-"
 name                     : &name "Yiwei Dong"
 description              : &description "The harder you work, the luckier you are."
-url                      : https://yiwei-dong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yiwei-dong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiwei-dong/yiwei-dong.github.io"
 
@@ -21,11 +21,11 @@ repository               : "yiwei-dong/yiwei-dong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.jpg"
+  avatar           : "portrait.png"
   name             : "Yiwei Dong"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"  
   bio              : # "The harder you work, the luckier you are."
-  location         : "Shenzhen, China"
+  location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
   email            : "yiwei_d@163.com" 
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/z-y-2-30"
 
 
 # Site Settings
@@ -82,7 +82,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+provider                 : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
