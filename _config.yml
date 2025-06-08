@@ -21,12 +21,12 @@ repository               : "yiwei-dong/yiwei-dong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "portrait.jpg"
   name             : "Yiwei Dong"
-  pronouns         : # example: "she/her"  
-  bio              : "The harder you work, the luckier you are."
+  pronouns         : "he/his"  
+  bio              : # "The harder you work, the luckier you are."
   location         : "Shenzhen, China"
-  employer         : "Shenzhen University"
+  employer         : "Nanyang Technological University"
   uri              : # URL
   email            : "yiwei_d@163.com" 
 
