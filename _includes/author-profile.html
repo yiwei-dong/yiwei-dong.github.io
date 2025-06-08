@@ -9,6 +9,7 @@
   <style>
     .author__urls {
       display: flex;
+      flex-wrap: wrap; /* 允许换行 */
       align-items: center; /* 垂直居中 */
       justify-content: flex-start; /* 水平起始对齐 */
       gap: 10px; /* 图标之间的间距 */
@@ -19,6 +20,7 @@
     .author__urls li {
       display: flex;
       align-items: center; /* 垂直居中 */
+      flex-basis: calc(50% - 10px); /* 每个列表项占50%的宽度，减去间距 */
     }
     .author__urls li a {
       text-decoration: none; /* 去掉默认的链接下划线 */
