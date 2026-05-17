@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "Singapore"
-title                    : "Yiwei Dong / Personal Website"
+title                    : "Yiwei Dong"
 title_separator          : "-"
 name                     : &name "Yiwei Dong"
-description              : &description "The harder you work, the luckier you are."
+description              : "The harder you work, the luckier you are."
 url                      : "https://yiwei-dong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiwei-dong/yiwei-dong.github.io"
