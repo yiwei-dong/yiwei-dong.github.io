@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Singapore"
-title                    : "Personal Website"
+title                    : "Yiwei Dong's Website"
 title_separator          : "-"
 name                     : &name "Yiwei Dong"
 description              : &description "董奕崴"
