@@ -2,24 +2,25 @@
 layout: archive
 classes: wide
 permalink: /
-title: "Yiwei Dong"
+title: "About me"
 excerpt: "Yiwei Dong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<div style="text-align: justify; line-height: 1.6;">
-**Short Bio.** Hi! I am Yiwei Dong, and you can also call me Ives. I recently obtained my Master's degree in Computer Control & Automation from the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), under the supervision of [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I completed my undergraduate studies at the [School of Mathematical Sciences](https://math.szu.edu.cn), [Shenzhen University (SZU), China](https://www.szu.edu.cn), majoring in Information and Computing Science. Currently, I am embarking on my professional journey in the robotics industry as a Product Manager, dedicated to bridging cutting-edge automation and AI technologies with impactful product solutions.
+
+<div style="text-align: justify; line-height: 1.6; margin-bottom: 25px; font-size: 1.05em; color: #24292f;">
+**Short Bio.** Hi! I am Yiwei Dong, and you can also call me Ives. I recently obtained my Master's degree in **Computer Control & Automation** from the [School of Electrical and Electronic Engineering (EEE)](https://www.ntu.edu.sg/eee), [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), under the supervision of [**Prof. Soujanya Poria**](https://soujanyaporia.github.io/). Previously, I completed my undergraduate studies at the [School of Mathematical Sciences](https://math.szu.edu.cn), [Shenzhen University (SZU), China](https://www.szu.edu.cn), majoring in **Information and Computing Science**. Currently, I am embarking on my professional journey in the robotics industry as a Product Manager, dedicated to bridging cutting-edge automation and AI technologies with impactful product solutions.
 </div>
 
-<div style="text-align: justify; font-style: normal; border: none; background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-top: 20px; color: #24292f; line-height: 1.6;">
-**简介：** 大家好，我是董奕崴，你也可以叫我 Ives。我毕业于新加坡[南洋理工大学](https://www.ntu.edu.sg/)[电气与电子工程学院 (EEE)](https://www.ntu.edu.sg/eee)，获得了计算机控制与自动化专业的硕士学位，研究生阶段师从 [Soujanya Poria](https://soujanyaporia.github.io/) 教授。在此之前，我本科就读于中国[深圳大学](https://www.szu.edu.cn)[数学科学学院](https://math.szu.edu.cn)，主修信息与计算科学专业。目前，我正投身于机器人行业，担任产品经理岗位，致力于将先进的自动化与人工智能技术转化为真正改变生活的优秀产品。
+<div style="text-align: justify; font-style: normal; line-height: 1.6; margin-bottom: 35px; font-size: 1.05em; color: #24292f;">
+**简介：** 大家好，我是董奕崴，你也可以叫我 Ives。我毕业于新加坡[南洋理工大学 (NTU)](https://www.ntu.edu.sg/)[电气与电子工程学院 (EEE)](https://www.ntu.edu.sg/eee)，获得了计算机控制与自动化专业的硕士学位，师从 [**Soujanya Poria**](https://soujanyaporia.github.io/) 教授。在此之前，我本科就读于中国[深圳大学 (SZU)](https://www.szu.edu.cn)[数学科学学院](https://math.szu.edu.cn)，主修**信息与计算科学**专业。目前，我正投身于机器人行业，担任**产品经理**岗位，致力于将先进的自动化与人工智能技术转化为真正改变生活的优秀产品。
 </div>
 
-<div style="display: flex; align-items: center; gap: 35px; margin-top: 25px; margin-bottom: 35px;">
-  <img src="images/ntu-logo.png" alt="NTU Logo" style="height: 50px; width: auto; object-fit: contain;">
-  <img src="images/szu-logo.png" alt="SZU Logo" style="height: 50px; width: auto; object-fit: contain;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 30px; margin-bottom: 40px; width: 100%;">
+  <img src="images/ntu-logo.png" alt="NTU Logo" style="height: 55px; width: auto; object-fit: contain;">
+  <img src="images/szu-logo.png" alt="SZU Logo" style="height: 55px; width: auto; object-fit: contain;">
 </div>
 
 ---
