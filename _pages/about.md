@@ -127,16 +127,11 @@ redirect_from:
 <!-- ══ Bio ══ -->
 
 <div class="bio-card">
-  <span class="bio-lang-label">EN</span>
   <p>
     <strong>Short Bio.</strong> Hi! I am Yiwei Dong, and you can also call me <strong>Ives</strong>. I recently obtained my Master's degree in <strong>Computer Control &amp; Automation</strong> from the <a href="https://www.ntu.edu.sg/eee">School of Electrical and Electronic Engineering (EEE)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU), Singapore</a>, under the supervision of <a href="https://soujanyaporia.github.io/"><strong>Prof. Soujanya Poria</strong></a>. Previously, I completed my undergraduate studies at the <a href="https://math.szu.edu.cn">School of Mathematical Sciences</a>, <a href="https://www.szu.edu.cn">Shenzhen University (SZU), China</a>, majoring in <strong>Information and Computing Science</strong>. Currently, I am embarking on my professional journey in the robotics industry as a <strong>Product Manager</strong>, dedicated to bridging cutting-edge automation and AI technologies with impactful product solutions.
-  </p>
-</div>
 
-<div class="bio-card">
-  <span class="bio-lang-label">中文</span>
-  <p>
     <strong>简介：</strong>大家好，我是<strong>董奕崴</strong>，你也可以叫我 Ives。我毕业于新加坡<a href="https://www.ntu.edu.sg/">南洋理工大学 (NTU)</a> <a href="https://www.ntu.edu.sg/eee">电气与电子工程学院</a>，获得了<strong>计算机控制与自动化</strong>专业的硕士学位，师从 <a href="https://soujanyaporia.github.io/"><strong>Soujanya Poria 教授</strong></a>。在此之前，我本科就读于中国<a href="https://www.szu.edu.cn">深圳大学 (SZU)</a> <a href="https://math.szu.edu.cn">数学科学学院</a>，主修<strong>信息与计算科学</strong>专业。目前，我正投身于机器人行业，担任<strong>产品经理</strong>岗位，致力于将先进的自动化与人工智能技术转化为真正改变生活的优秀产品。
+
   </p>
 </div>
 
