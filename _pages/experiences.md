@@ -7,21 +7,27 @@ author_profile: true
 
 ## Education
 
-**Nanyang Technological University, Singapore (NTU)** | *Aug. 2025 -- Jul. 2026* Master of Science in Computer Control & Automation | Singapore  
+**Nanyang Technological University, Singapore (NTU)** | Singapore  
+*Master of Science in Computer Control & Automation* | *Aug. 2025 -- Jul. 2026*
+
 * **GPA:** 5.0/5.0 (Top 1%)
 * **Core Courses:** Genetic Algorithms & Machine Learning (A+), Machine Vision (A+), Artifical Intelligence & Data Mining (A), Process Modeling & Scheduling, Robotics & Intelligent Sensors, Systems Analysis
 
-**Shenzhen University (SZU)** | *Sep. 2020 -- Jul. 2024* Bachelor of Science in Information and Computing Science | Shenzhen, China  
+**Shenzhen University (SZU)** | Shenzhen, China  
+*Bachelor of Science in Information and Computing Science* | *Sep. 2020 -- Jul. 2024*
+
 * **GPA:** 3.68/4.5 *(Top 15%)*
 * **Core Courses:** Mathematical analysis (A), Advanced Algebra (A), Probability theory (A), Numerical Analysis (A), Data Structures and Algorithms (A), Operational Research (A), Machine Learning (A)
 
 ## Internship
 
-**Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** | *Apr. 2025 -- Jul. 2025* Algorithm Intern | Shenzhen, China  
+**Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** | Shenzhen, China  
+*Algorithm Intern* | *Apr. 2025 -- Jul. 2025*
 
 ## Extracurricular Activities
 
-**Huawei Intelligent Base Club, SZU** | *Sep. 2022 -- Jun. 2023* President | Shenzhen, China  
+**Huawei Intelligent Base Club, SZU** | Shenzhen, China  
+*President* | *Sep. 2022 -- Jun. 2023*
 
 ## Honors & Scholarships
 
