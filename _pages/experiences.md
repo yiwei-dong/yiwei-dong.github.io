@@ -1,16 +1,39 @@
 ---
-layout: archive
+layout: single
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Education
 
-{% include base_path %}
+**Nanyang Technological University, Singapore (NTU)** | *Aug. 2025 -- Jul. 2026* Master of Science in Computer Control & Automation | Singapore  
+* **GPA:** 5.0/5.0 (Top 1%)
+* **Core Courses:** Genetic Algorithms & Machine Learning (A+), Machine Vision (A+), Artifical Intelligence & Data Mining (A), Process Modeling & Scheduling, Robotics & Intelligent Sensors, Systems Analysis
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Shenzhen University (SZU)** | *Sep. 2020 -- Jul. 2024* Bachelor of Science in Information and Computing Science | Shenzhen, China  
+* **GPA:** 3.68/4.5 *(Top 15%)*
+* **Core Courses:** Mathematical analysis (A), Advanced Algebra (A), Probability theory (A), Numerical Analysis (A), Data Structures and Algorithms (A), Operational Research (A), Machine Learning (A)
+
+## Internship
+
+**Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** | *Apr. 2025 -- Jul. 2025* Algorithm Intern | Shenzhen, China  
+
+## Extracurricular Activities
+
+**Huawei Intelligent Base Club, SZU** | *Sep. 2022 -- Jun. 2023* President | Shenzhen, China  
+
+## Honors & Scholarships
+
+* **Outstanding Graduate of College** *(Top 5%)* - Jun. 2024
+* **Shenzhen University Third Class Scholarship** *(Top 10%)* - Dec. 2023
+* **Shenzhen University - Tencent Friend Scholarship** *(Top 1%)* - Jun. 2023
+* **Ministry of Education of China - Huawei Future Star Scholarship** *(Top 1%)* - Dec. 2022 & Dec. 2023
+
+## Competitions
+
+* **UG Innovation and Entrepreneurship Training Program** -- *Provincial Project (Top 10%)* - Jun. 2024
+* **China Artificial Intelligence Innovation Application Competition** -- *Third Prize (Top 10%)* - Feb. 2023
+* **China Undergraduate Mathematical Contest in Modeling** -- *Provincial Second Prize (Top 15%)* - Sep. 2022
+* **Shenzhen, HK and Macau Undergraduate Maker Competition** -- *Excellence Award (Ranked 4th)* - Dec. 2021
+* **SZU Innovation and Entrepreneurship Competition** -- *Third Prize (Top 20%)* - Dec. 2021
