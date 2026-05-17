@@ -1,6 +1,5 @@
 ---
 layout: archive
-classes: wide
 permalink: /
 title: "About me"
 excerpt: "Yiwei Dong"
