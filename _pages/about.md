@@ -18,8 +18,8 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: center; gap: 35px; margin-top: 25px; margin-bottom: 35px;">
-  <img src="images/ntu_logo.png" alt="NTU Logo" style="height: 50px; width: auto; object-fit: contain;">
-  <img src="images/szu_logo.png" alt="SZU Logo" style="height: 50px; width: auto; object-fit: contain;">
+  <img src="images/ntu-logo.png" alt="NTU Logo" style="height: 50px; width: auto; object-fit: contain;">
+  <img src="images/szu-logo.png" alt="SZU Logo" style="height: 50px; width: auto; object-fit: contain;">
 </div>
 
 ---
