@@ -1,8 +1,16 @@
 ---
-layout: single
-title: "Experiences"
-permalink: /experiences/
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
-这里开始写你的个人经历内容...
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
