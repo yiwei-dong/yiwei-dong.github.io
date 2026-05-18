@@ -123,8 +123,6 @@ author_profile: true
     <span class="tl-period">Aug 2025 – Jul 2026</span>
     <p class="tl-meta"><strong>GPA:</strong> 5.0 / 5.0 &nbsp;·&nbsp; Top 1%</p>
     <p class="tl-meta-zh">绩点：5.0 / 5.0 · 专业前 1%</p>
-    <p class="tl-courses"><strong>Core Courses:</strong> Genetic Algorithms &amp; Machine Learning (A+), Machine Vision (A+), Artificial Intelligence &amp; Data Mining (A), Process Modeling &amp; Scheduling, Robotics &amp; Intelligent Sensors, Systems Analysis</p>
-    <p class="tl-courses-zh">核心课程：遗传算法与机器学习（A+）、机器视觉（A+）、人工智能与数据挖掘（A）、过程建模与调度、机器人与智能传感器、系统分析</p>
   </div>
 
   <div class="tl-item">
@@ -136,8 +134,6 @@ author_profile: true
     <span class="tl-period">Sep 2020 – Jul 2024</span>
     <p class="tl-meta"><strong>GPA:</strong> 3.68 / 4.5 &nbsp;·&nbsp; Top 15%</p>
     <p class="tl-meta-zh">绩点：3.68 / 4.5 · 专业前 15%</p>
-    <p class="tl-courses"><strong>Core Courses:</strong> Mathematical Analysis (A), Advanced Algebra (A), Probability Theory (A), Numerical Analysis (A), Data Structures &amp; Algorithms (A), Operational Research (A), Machine Learning (A)</p>
-    <p class="tl-courses-zh">核心课程：数学分析（A）、高等代数（A）、概率论（A）、数值分析（A）、数据结构与算法（A）、运筹学（A）、机器学习（A）</p>
   </div>
 
 </div>
@@ -147,7 +143,6 @@ author_profile: true
 <div class="sec-head">
   <div class="sec-icon"><i class="fas fa-briefcase" style="font-size:13px; color:#555;"></i></div>
   <span class="sec-title-en">Internship</span>
-  <span class="sec-title-zh">实习经历</span>
 </div>
 
 <div class="tl">
@@ -168,7 +163,6 @@ author_profile: true
 <div class="sec-head">
   <div class="sec-icon"><i class="fas fa-users" style="font-size:13px; color:#555;"></i></div>
   <span class="sec-title-en">Extracurricular Activities</span>
-  <span class="sec-title-zh">课外活动</span>
 </div>
 
 <div class="tl">
@@ -189,7 +183,6 @@ author_profile: true
 <div class="sec-head">
   <div class="sec-icon"><i class="fas fa-award" style="font-size:14px; color:#555;"></i></div>
   <span class="sec-title-en">Honors &amp; Scholarships</span>
-  <span class="sec-title-zh">荣誉与奖学金</span>
 </div>
 
 <ul class="award-list">
@@ -197,8 +190,8 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Outstanding Graduate of College <span class="award-tag">Top 5%</span></div>
-      <div class="award-zh">院级优秀毕业生</div>
+      <div class="award-en">Outstanding Graduate of School of Mathematical Sciences, SZU <span class="award-tag">Top 5%</span></div>
+      <div class="award-zh">深圳大学数学科学学院级优秀毕业生</div>
     </div>
     <div class="award-date">Jun 2024</div>
   </li>
@@ -216,7 +209,7 @@ author_profile: true
     <div class="award-bullet"></div>
     <div class="award-body">
       <div class="award-en">Shenzhen University – Tencent Friend Scholarship <span class="award-tag">Top 1%</span></div>
-      <div class="award-zh">深圳大学腾讯好友奖学金</div>
+      <div class="award-zh">深圳大学腾讯益友奖学金</div>
     </div>
     <div class="award-date">Jun 2023</div>
   </li>
@@ -225,7 +218,7 @@ author_profile: true
     <div class="award-bullet"></div>
     <div class="award-body">
       <div class="award-en">Ministry of Education of China – Huawei Future Star Scholarship <span class="award-tag">Top 1%</span></div>
-      <div class="award-zh">中国教育部 · 华为未来之星奖学金</div>
+      <div class="award-zh">中国教育部 - 华为未来之星奖学金</div>
     </div>
     <div class="award-date">Dec 2022 &amp; 2023</div>
   </li>
@@ -237,7 +230,6 @@ author_profile: true
 <div class="sec-head">
   <div class="sec-icon"><i class="fas fa-trophy" style="font-size:13px; color:#555;"></i></div>
   <span class="sec-title-en">Competitions</span>
-  <span class="sec-title-zh">竞赛经历</span>
 </div>
 
 <ul class="award-list">
@@ -246,7 +238,7 @@ author_profile: true
     <div class="award-bullet"></div>
     <div class="award-body">
       <div class="award-en">UG Innovation &amp; Entrepreneurship Training Program — Provincial Project <span class="award-tag">Top 10%</span></div>
-      <div class="award-zh">大学生创新创业训练计划 · 省级项目</div>
+      <div class="award-zh">大学生创新创业训练计划 · 广东省省级项目</div>
     </div>
     <div class="award-date">Jun 2024</div>
   </li>
