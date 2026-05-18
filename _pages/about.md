@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
 <div style="text-align: justify; font-style: normal; line-height: 1.6; margin-bottom: 35px; font-size: 1.05em; color: #24292f;">
-  <strong>简介：</strong> 大家好，我是董奕崴。我硕士毕业于新加坡<a href="https://www.ntu.edu.sg/">南洋理工大学</a> <a href="https://www.ntu.edu.sg/eee">电气与电子工程学院</a>计算机控制与自动化专业，师从 <a href="https://soujanyaporia.github.io/">Soujanya Poria</a> 教授。在此之前，我本科就读于<a href="https://www.szu.edu.cn">深圳大学</a> <a href="https://math.szu.edu.cn">数学科学学院</a>，主修信息与计算科学专业。目前，我正投身于机器人行业，担任产品经理岗位，致力于将先进的自动化与人工智能技术转化为真正改变生活的优秀产品。
+  <strong>简介：</strong> 大家好，我是董奕崴。我硕士毕业于新加坡<a href="https://www.ntu.edu.sg/">南洋理工大学</a><a href="https://www.ntu.edu.sg/eee">电气与电子工程学院</a>计算机控制与自动化专业，师从 <a href="https://soujanyaporia.github.io/">Soujanya Poria</a> 教授。在此之前，我本科就读于<a href="https://www.szu.edu.cn">深圳大学</a><a href="https://math.szu.edu.cn">数学科学学院</a>，主修信息与计算科学专业。目前，我正投身于机器人行业，担任产品经理岗位，致力于将先进的自动化与人工智能技术转化为真正改变生活的优秀产品。
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 30px; margin-bottom: 40px; width: 100%;">
@@ -33,7 +33,7 @@ redirect_from:
     <div style="position: relative; margin-bottom: 22px;">
       <div style="position: absolute; left: -30px; top: 6px; width: 10px; height: 10px; border-radius: 50%; background-color: #0969da; border: 2px solid #ffffff;"></div>
       <strong style="color: #24292f;">[05/2026]</strong> I successfully completed my postgraduate studies at NTU and am currently awaiting degree conferment.
-      <div style="color: #6e7781; font-size: 0.92em; font-style: italic; margin-top: 4px;">我已顺利完成在南洋理工大学 (NTU) 的硕士学业，目前正在等待官方学位授予。</div>
+      <div style="color: #6e7781; font-size: 0.92em; font-style: italic; margin-top: 4px;">我已顺利完成在南洋理工大学的硕士学业，目前正在等待官方学位授予。</div>
     </div>
     
     <div style="position: relative; margin-bottom: 5px;">
