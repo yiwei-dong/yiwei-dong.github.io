@@ -170,7 +170,7 @@ author_profile: true
             <p class="tl-org-zh">深圳大学</p>
             <p class="tl-role">B.Sc. in Information and Computing Science</p>
             <p class="tl-role-zh">信息与计算科学 · 理学学士</p>
-            <p class="tl-meta"><strong>GPA:</strong> 3.68 / 4.5 &nbsp;·&nbsp; Top 15%</p>
+            <p class="tl-meta"><strong>GPA:</strong> 85 / 100 &nbsp;·&nbsp; Top 15%</p>
           </div>
         </div>
       </div>
