@@ -156,7 +156,7 @@ author_profile: true
           <img src="/images/ntu_logo.png" alt="NTU Logo" class="tl-logo">
           
           <div class="tl-content">
-            <p class="tl-org">Nanyang Technological University &nbsp;·&nbsp; Singapore</p>
+            <p class="tl-org">Nanyang Technological University, Singapore</p>
             <p class="tl-org-zh">新加坡南洋理工大学 </p>
             <p class="tl-role">M.Sc. in Computer Control &amp; Automation</p>
             <p class="tl-role-zh">计算机控制与自动化 · 硕士研究生</p>
@@ -177,7 +177,7 @@ author_profile: true
           <img src="/images/szu_logo.png" alt="SZU Logo" class="tl-logo">
           
           <div class="tl-content">
-            <p class="tl-org">Shenzhen University &nbsp;·&nbsp; Shenzhen, China</p>
+            <p class="tl-org">Shenzhen University, China</p>
             <p class="tl-org-zh">深圳大学</p>
             <p class="tl-role">B.Sc. in Information and Computing Science</p>
             <p class="tl-role-zh">信息与计算科学 · 理学学士</p>
