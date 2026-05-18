@@ -223,7 +223,7 @@ author_profile: true
           <img src="/images/hib_logo.png" alt="HIB Logo" class="tl-logo">
           
           <div class="tl-content">
-            <p class="tl-org">Huawei Intelligent Base Club, SZU</p>
+            <p class="tl-org">Huawei Intelligent Base Club, Shenzhen University</p>
             <p class="tl-org-zh">深圳大学华为智能基座社团</p>
             <p class="tl-role">President</p>
           </div>
