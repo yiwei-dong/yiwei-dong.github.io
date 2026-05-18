@@ -153,7 +153,7 @@ author_profile: true
       <div class="tl-body">
         <div class="tl-with-logo">
           <!-- 已更新为 NTU 本地路径 -->
-          <img src="images/ntu_logo.png" alt="NTU Logo" class="tl-logo">
+          <img src="/images/ntu_logo.png" alt="NTU Logo" class="tl-logo">
           
           <div class="tl-content">
             <p class="tl-org">Nanyang Technological University &nbsp;·&nbsp; Singapore</p>
@@ -174,7 +174,7 @@ author_profile: true
       <div class="tl-body">
         <div class="tl-with-logo">
           <!-- 预设深大本地路径，确保图片位于 images/szu_logo.png，或者改回网络链接 -->
-          <img src="images/szu_logo.png" alt="SZU Logo" class="tl-logo">
+          <img src="/images/szu_logo.png" alt="SZU Logo" class="tl-logo">
           
           <div class="tl-content">
             <p class="tl-org">Shenzhen University &nbsp;·&nbsp; Shenzhen, China</p>
@@ -204,7 +204,7 @@ author_profile: true
       <div class="tl-body">
         <div class="tl-with-logo">
           <!-- 已更新为 SIAT 本地路径 -->
-          <img src="images/siat_logo.png" alt="SIAT Logo" class="tl-logo">
+          <img src="/images/siat_logo.png" alt="SIAT Logo" class="tl-logo">
           
           <div class="tl-content">
             <p class="tl-org">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
@@ -231,7 +231,7 @@ author_profile: true
     <div class="tl-row">
       <div class="tl-body">
         <div class="tl-with-logo">
-          <img src="images/hib_logo.png" alt="HIB Logo" class="tl-logo">
+          <img src="/images/hib_logo.png" alt="HIB Logo" class="tl-logo">
           
           <div class="tl-content">
             <p class="tl-org">Huawei Intelligent Base Club, SZU</p>
