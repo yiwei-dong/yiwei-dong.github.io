@@ -173,7 +173,7 @@ author_profile: true
     <div class="tl-row">
       <div class="tl-body">
         <div class="tl-with-logo">
-          <!-- 预设深大本地路径，确保图片位于 images/szu-logo.png，或者改回网络链接 -->
+          <!-- 预设深大本地路径，确保图片位于 images/szu_logo.png，或者改回网络链接 -->
           <img src="images/szu_logo.png" alt="SZU Logo" class="tl-logo">
           
           <div class="tl-content">
@@ -230,9 +230,15 @@ author_profile: true
     <div class="tl-dot"></div>
     <div class="tl-row">
       <div class="tl-body">
-        <p class="tl-org">Huawei Intelligent Base Club, SZU</p>
-        <p class="tl-org-zh">深圳大学华为智能基座社团</p>
-        <p class="tl-role">President</p>
+        <div class="tl-with-logo">
+          <img src="images/hib_logo.png" alt="HIB Logo" class="tl-logo">
+          
+          <div class="tl-content">
+            <p class="tl-org">Huawei Intelligent Base Club, SZU</p>
+            <p class="tl-org-zh">深圳大学华为智能基座社团</p>
+            <p class="tl-role">President</p>
+          </div>
+        </div>
       </div>
       <div class="tl-period">Sep 2022 – Jun 2023</div>
     </div>
