@@ -109,7 +109,6 @@ author_profile: true
 <div class="sec-head">
   <div class="sec-icon"><i class="fas fa-graduation-cap" style="font-size:14px; color:#555;"></i></div>
   <span class="sec-title-en">Education</span>
-  <span class="sec-title-zh">教育背景</span>
 </div>
 
 <div class="tl">
