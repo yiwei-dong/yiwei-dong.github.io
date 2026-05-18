@@ -11,7 +11,7 @@ locale                   : "Singapore"
 title                    : "Yiwei Dong's Website"
 title_separator          : "-"
 name                     : &name "Yiwei Dong"
-description              : "董奕崴"
+description              : ""
 url                      : "https://yiwei-dong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiwei-dong/yiwei-dong.github.io"
@@ -22,9 +22,9 @@ repository               : "yiwei-dong/yiwei-dong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yiwei Dong"
+  name             : "Yiwei Dong 董奕崴"
   pronouns         : # "he/his"  
-  bio              : "The harder you work, the luckier you are."
+  bio              : # ""
   location         : "Singapore"
   employer         : # "Nanyang Technological University"
   uri              : "https://yiwei-dong.github.io"
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://instagram.com/ives_tung"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yiwei-dong-a230503a3"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
