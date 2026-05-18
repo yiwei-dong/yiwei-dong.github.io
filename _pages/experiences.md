@@ -115,24 +115,22 @@ author_profile: true
 
   <div class="tl-item">
     <div class="tl-dot"></div>
-    <p class="tl-org">Nanyang Technological University (NTU) &nbsp;·&nbsp; Singapore</p>
-    <p class="tl-org-zh">南洋理工大学 · 新加坡</p>
+    <p class="tl-org">Nanyang Technological University &nbsp;·&nbsp; Singapore</p>
+    <p class="tl-org-zh">新加坡南洋理工大学 </p>
     <p class="tl-role">M.Sc. in Computer Control &amp; Automation</p>
-    <p class="tl-role-zh">计算机控制与自动化 · 理学硕士</p>
+    <p class="tl-role-zh">计算机控制与自动化 · 硕士研究生</p>
     <span class="tl-period">Aug 2025 – Jul 2026</span>
     <p class="tl-meta"><strong>GPA:</strong> 5.0 / 5.0 &nbsp;·&nbsp; Top 1%</p>
-    <p class="tl-meta-zh">绩点：5.0 / 5.0 · 专业前 1%</p>
   </div>
 
   <div class="tl-item">
     <div class="tl-dot"></div>
-    <p class="tl-org">Shenzhen University (SZU) &nbsp;·&nbsp; Shenzhen, China</p>
-    <p class="tl-org-zh">深圳大学 · 广东深圳</p>
+    <p class="tl-org">Shenzhen University &nbsp;·&nbsp; Shenzhen, China</p>
+    <p class="tl-org-zh">深圳大学</p>
     <p class="tl-role">B.Sc. in Information and Computing Science</p>
     <p class="tl-role-zh">信息与计算科学 · 理学学士</p>
     <span class="tl-period">Sep 2020 – Jul 2024</span>
     <p class="tl-meta"><strong>GPA:</strong> 3.68 / 4.5 &nbsp;·&nbsp; Top 15%</p>
-    <p class="tl-meta-zh">绩点：3.68 / 4.5 · 专业前 15%</p>
   </div>
 
 </div>
@@ -151,7 +149,6 @@ author_profile: true
     <p class="tl-org">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
     <p class="tl-org-zh">中国科学院深圳先进技术研究院</p>
     <p class="tl-role">Algorithm Intern</p>
-    <p class="tl-role-zh">算法实习生</p>
     <span class="tl-period">Apr 2025 – Jul 2025</span>
   </div>
 
@@ -168,10 +165,9 @@ author_profile: true
 
   <div class="tl-item">
     <div class="tl-dot"></div>
-    <p class="tl-org">Huawei Intelligent Base Club &nbsp;·&nbsp; SZU</p>
-    <p class="tl-org-zh">华为智能基地社团 · 深圳大学</p>
+    <p class="tl-org">Huawei Intelligent Base Club, SZU</p>
+    <p class="tl-org-zh">深圳大学华为智能基座社团</p>
     <p class="tl-role">President</p>
-    <p class="tl-role-zh">社长</p>
     <span class="tl-period">Sep 2022 – Jun 2023</span>
   </div>
 
@@ -189,7 +185,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Outstanding Graduate of School of Mathematical Sciences, SZU <span class="award-tag">Top 5%</span></div>
+      <div class="award-en">Outstanding Graduate of School of Mathematical Sciences, SZU</div>
       <div class="award-zh">深圳大学数学科学学院级优秀毕业生</div>
     </div>
     <div class="award-date">Jun 2024</div>
@@ -198,7 +194,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Shenzhen University Third Class Scholarship <span class="award-tag">Top 10%</span></div>
+      <div class="award-en">Shenzhen University Third Class Scholarship</div>
       <div class="award-zh">深圳大学三等奖学金</div>
     </div>
     <div class="award-date">Dec 2023</div>
@@ -207,7 +203,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Shenzhen University – Tencent Friend Scholarship <span class="award-tag">Top 1%</span></div>
+      <div class="award-en">Shenzhen University – Tencent Friend Scholarship</div>
       <div class="award-zh">深圳大学腾讯益友奖学金</div>
     </div>
     <div class="award-date">Jun 2023</div>
@@ -216,7 +212,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Ministry of Education of China – Huawei Future Star Scholarship <span class="award-tag">Top 1%</span></div>
+      <div class="award-en">Ministry of Education of China – Huawei Future Star Scholarship</div>
       <div class="award-zh">中国教育部 - 华为未来之星奖学金</div>
     </div>
     <div class="award-date">Dec 2022 &amp; 2023</div>
@@ -236,7 +232,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">UG Innovation &amp; Entrepreneurship Training Program — Provincial Project <span class="award-tag">Top 10%</span></div>
+      <div class="award-en">UG Innovation &amp; Entrepreneurship Training Program — Provincial Project</div>
       <div class="award-zh">大学生创新创业训练计划 · 广东省省级项目</div>
     </div>
     <div class="award-date">Jun 2024</div>
@@ -245,7 +241,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">China Artificial Intelligence Innovation Application Competition — Third Prize <span class="award-tag">Top 10%</span></div>
+      <div class="award-en">China Artificial Intelligence Innovation Application Competition — Third Prize </div>
       <div class="award-zh">中国人工智能创新应用大赛 · 三等奖</div>
     </div>
     <div class="award-date">Feb 2023</div>
@@ -254,7 +250,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">China Undergraduate Mathematical Contest in Modeling — Provincial Second Prize <span class="award-tag">Top 15%</span></div>
+      <div class="award-en">China Undergraduate Mathematical Contest in Modeling — Provincial Second Prize </div>
       <div class="award-zh">全国大学生数学建模竞赛 · 省级二等奖</div>
     </div>
     <div class="award-date">Sep 2022</div>
@@ -263,8 +259,8 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">Shenzhen, HK &amp; Macau Undergraduate Maker Competition — Excellence Award <span class="award-tag">Ranked 4th</span></div>
-      <div class="award-zh">深港澳大学生创客大赛 · 优秀奖（第 4 名）</div>
+      <div class="award-en">Shenzhen, HK &amp; Macau Undergraduate Maker Competition — Excellence Award </div>
+      <div class="award-zh">深港澳大学生创客大赛 · 优秀奖</div>
     </div>
     <div class="award-date">Dec 2021</div>
   </li>
@@ -272,7 +268,7 @@ author_profile: true
   <li class="award-item">
     <div class="award-bullet"></div>
     <div class="award-body">
-      <div class="award-en">SZU Innovation &amp; Entrepreneurship Competition — Third Prize <span class="award-tag">Top 20%</span></div>
+      <div class="award-en">SZU Innovation &amp; Entrepreneurship Competition — Third Prize </div>
       <div class="award-zh">深圳大学创新创业大赛 · 三等奖</div>
     </div>
     <div class="award-date">Dec 2021</div>
