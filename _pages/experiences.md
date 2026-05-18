@@ -50,7 +50,7 @@ author_profile: true
     box-shadow: 0 0 0 1.5px #ccc;
   }
 
-  /* ── 新增 Flex 布局：左右排版 ── */
+  /* Flex 布局：左右排版 */
   .tl-row {
     display: flex;
     justify-content: space-between;
@@ -59,7 +59,25 @@ author_profile: true
   }
   .tl-body { 
     flex: 1; 
-    min-width: 0; /* 关键修复：防止长文本撑破 Flex 布局，保证正常换行 */
+    min-width: 0; 
+  }
+
+  /* ── 带校徽的排版样式 ── */
+  .tl-with-logo {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px; 
+  }
+  .tl-logo {
+    width: 46px; 
+    height: 46px; 
+    object-fit: contain;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .tl-content {
+    flex: 1;
+    min-width: 0;
   }
 
   .tl-org    { font-size: 14.5px; font-weight: 700; color: #111; margin: 0 0 1px; }
@@ -69,7 +87,7 @@ author_profile: true
   
   /* 右侧日期标签样式 */
   .tl-period {
-    flex-shrink: 0; /* 关键修复：保证日期不被挤压 */
+    flex-shrink: 0;
     font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.04em;
@@ -78,7 +96,7 @@ author_profile: true
     border-radius: 3px;
     padding: 2px 7px;
     white-space: nowrap;
-    margin-top: 1px; /* 微调以对齐左侧第一行文字 */
+    margin-top: 1px;
   }
 
   .tl-meta    { font-size: 13px;  color: #333;  margin: 4px 0;  line-height: 1.6; }
@@ -133,11 +151,18 @@ author_profile: true
     <div class="tl-dot"></div>
     <div class="tl-row">
       <div class="tl-body">
-        <p class="tl-org">Nanyang Technological University &nbsp;·&nbsp; Singapore</p>
-        <p class="tl-org-zh">新加坡南洋理工大学 </p>
-        <p class="tl-role">M.Sc. in Computer Control &amp; Automation</p>
-        <p class="tl-role-zh">计算机控制与自动化 · 硕士研究生</p>
-        <p class="tl-meta"><strong>GPA:</strong> 5.0 / 5.0 &nbsp;·&nbsp; Top 1%</p>
+        <div class="tl-with-logo">
+          <!-- 已更新为 NTU 本地路径 -->
+          <img src="images/ntu_logo.png" alt="NTU Logo" class="tl-logo">
+          
+          <div class="tl-content">
+            <p class="tl-org">Nanyang Technological University &nbsp;·&nbsp; Singapore</p>
+            <p class="tl-org-zh">新加坡南洋理工大学 </p>
+            <p class="tl-role">M.Sc. in Computer Control &amp; Automation</p>
+            <p class="tl-role-zh">计算机控制与自动化 · 硕士研究生</p>
+            <p class="tl-meta"><strong>GPA:</strong> 5.0 / 5.0 &nbsp;·&nbsp; Top 1%</p>
+          </div>
+        </div>
       </div>
       <div class="tl-period">Aug 2025 – Jul 2026</div>
     </div>
@@ -147,11 +172,18 @@ author_profile: true
     <div class="tl-dot"></div>
     <div class="tl-row">
       <div class="tl-body">
-        <p class="tl-org">Shenzhen University &nbsp;·&nbsp; Shenzhen, China</p>
-        <p class="tl-org-zh">深圳大学</p>
-        <p class="tl-role">B.Sc. in Information and Computing Science</p>
-        <p class="tl-role-zh">信息与计算科学 · 理学学士</p>
-        <p class="tl-meta"><strong>GPA:</strong> 3.68 / 4.5 &nbsp;·&nbsp; Top 15%</p>
+        <div class="tl-with-logo">
+          <!-- 预设深大本地路径，确保图片位于 images/szu-logo.png，或者改回网络链接 -->
+          <img src="images/szu_logo.png" alt="SZU Logo" class="tl-logo">
+          
+          <div class="tl-content">
+            <p class="tl-org">Shenzhen University &nbsp;·&nbsp; Shenzhen, China</p>
+            <p class="tl-org-zh">深圳大学</p>
+            <p class="tl-role">B.Sc. in Information and Computing Science</p>
+            <p class="tl-role-zh">信息与计算科学 · 理学学士</p>
+            <p class="tl-meta"><strong>GPA:</strong> 3.68 / 4.5 &nbsp;·&nbsp; Top 15%</p>
+          </div>
+        </div>
       </div>
       <div class="tl-period">Sep 2020 – Jul 2024</div>
     </div>
@@ -170,9 +202,16 @@ author_profile: true
     <div class="tl-dot"></div>
     <div class="tl-row">
       <div class="tl-body">
-        <p class="tl-org">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
-        <p class="tl-org-zh">中国科学院深圳先进技术研究院</p>
-        <p class="tl-role">Algorithm Intern</p>
+        <div class="tl-with-logo">
+          <!-- 已更新为 SIAT 本地路径 -->
+          <img src="images/SIAT_logo.png" alt="SIAT Logo" class="tl-logo">
+          
+          <div class="tl-content">
+            <p class="tl-org">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
+            <p class="tl-org-zh">中国科学院深圳先进技术研究院</p>
+            <p class="tl-role">Algorithm Intern</p>
+          </div>
+        </div>
       </div>
       <div class="tl-period">Apr 2025 – Jul 2025</div>
     </div>
