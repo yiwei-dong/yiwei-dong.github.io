@@ -204,7 +204,7 @@ author_profile: true
       <div class="tl-body">
         <div class="tl-with-logo">
           <!-- 已更新为 SIAT 本地路径 -->
-          <img src="images/SIAT_logo.png" alt="SIAT Logo" class="tl-logo">
+          <img src="images/siat_logo.png" alt="SIAT Logo" class="tl-logo">
           
           <div class="tl-content">
             <p class="tl-org">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
