@@ -3,6 +3,7 @@ layout: archive
 title: "Improving multimodal reasoning models"
 collection: publications
 permalink: /publication/2026-04-27-improving-multimodal-reasoning-models
+excerpt: ''
 date: 2026-04-27
 venue: "Master's thesis, School of Electrical and Electronic Engineering, NTU Library"
 paperurl: 'https://hdl.handle.net/10356/214421'
