@@ -66,11 +66,11 @@ author_profile: true
   .tl-with-logo {
     display: flex;
     align-items: flex-start;
-    gap: 14px; 
+    gap: 16px; 
   }
   .tl-logo {
-    width: 46px; 
-    height: 46px; 
+    width: 54px; 
+    height: 54px; 
     object-fit: contain;
     flex-shrink: 0;
     margin-top: 2px;
