@@ -33,13 +33,11 @@ redirect_from:
     <div style="position: relative; margin-bottom: 22px;">
       <div style="position: absolute; left: -30px; top: 6px; width: 10px; height: 10px; border-radius: 50%; background-color: #0969da; border: 2px solid #ffffff;"></div>
       <strong style="color: #24292f;">[05/2026]</strong> I successfully completed my postgraduate studies at NTU and am currently awaiting degree conferment.
-      <div style="color: #6e7781; font-size: 0.92em; font-style: italic; margin-top: 4px;">我已顺利完成在南洋理工大学的硕士学业，目前正在等待官方学位授予。</div>
     </div>
     
     <div style="position: relative; margin-bottom: 5px;">
       <div style="position: absolute; left: -30px; top: 6px; width: 10px; height: 10px; border-radius: 50%; background-color: #0969da; border: 2px solid #ffffff;"></div>
       <strong style="color: #24292f;">[03/2026]</strong> Submitted my Master's dissertation for examination, detailing a reasoning guidance framework based on PRM and Beam Search.
-      <div style="color: #6e7781; font-size: 0.92em; font-style: italic; margin-top: 4px;">提交了我的硕士毕业论文以供审查，其中详细介绍了一个基于 PRM 和 Beam Search 的推理引导框架。</div>
     </div>
     
   </div>
