@@ -3,7 +3,7 @@ layout: archive
 title: "Improving multimodal reasoning models"
 collection: publications
 permalink: /publication/2026-04-27-improving-multimodal-reasoning-models
-excerpt: 'Standard MLLMs encode visual input only once. As reasoning tokens accumulate, the visual signal fades and the model increasingly relies on language rather than the image — a structural bias that causes hallucinations on tasks requiring close spatial inspection.'
+excerpt: ''
 date: 2026-04-27
 venue: "Master's thesis, School of Electrical and Electronic Engineering, NTU Library"
 paperurl: 'https://hdl.handle.net/10356/214421'
