@@ -86,18 +86,7 @@ author_profile: true
   .tl-role-zh { font-size: 12px;  color: #888;      margin: 0 0 6px; font-style: italic; }
   
   /* 右侧日期标签样式 */
-  .tl-period {
-    flex-shrink: 0;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    background: #f2f2f2;
-    color: #666;
-    border-radius: 3px;
-    padding: 2px 7px;
-    white-space: nowrap;
-    margin-top: 1px;
-  }
+  .tl-period {font-size: 11.5px; color: #aaa; flex-shrink: 0; white-space: nowrap; }
 
   .tl-meta    { font-size: 13px;  color: #333;  margin: 4px 0;  line-height: 1.6; }
   .tl-meta strong { color: #111; font-weight: 600; }
@@ -164,7 +153,7 @@ author_profile: true
           </div>
         </div>
       </div>
-      <div class="tl-period">Aug 2025 – Jul 2026</div>
+      <div class="tl-period">Aug. 2025 – Jul. 2026</div>
     </div>
   </div>
 
@@ -185,7 +174,7 @@ author_profile: true
           </div>
         </div>
       </div>
-      <div class="tl-period">Sep 2020 – Jul 2024</div>
+      <div class="tl-period">Sep. 2020 – Jul. 2024</div>
     </div>
   </div>
 </div>
@@ -213,7 +202,7 @@ author_profile: true
           </div>
         </div>
       </div>
-      <div class="tl-period">Apr 2025 – Jul 2025</div>
+      <div class="tl-period">Apr. 2025 – Jul. 2025</div>
     </div>
   </div>
 </div>
@@ -240,7 +229,7 @@ author_profile: true
           </div>
         </div>
       </div>
-      <div class="tl-period">Sep 2022 – Jun 2023</div>
+      <div class="tl-period">Sep. 2022 – Jun. 2023</div>
     </div>
   </div>
 </div>
@@ -259,7 +248,7 @@ author_profile: true
       <div class="award-en">Outstanding Graduate of School of Mathematical Sciences, SZU</div>
       <div class="award-zh">深圳大学数学科学学院级优秀毕业生</div>
     </div>
-    <div class="award-date">Jun 2024</div>
+    <div class="award-date">Jun. 2024</div>
   </li>
 
   <li class="award-item">
@@ -268,7 +257,7 @@ author_profile: true
       <div class="award-en">Shenzhen University Third Class Scholarship</div>
       <div class="award-zh">深圳大学三等奖学金</div>
     </div>
-    <div class="award-date">Dec 2023</div>
+    <div class="award-date">Dec. 2023</div>
   </li>
 
   <li class="award-item">
@@ -277,7 +266,7 @@ author_profile: true
       <div class="award-en">Shenzhen University – Tencent Friend Scholarship</div>
       <div class="award-zh">深圳大学腾讯益友奖学金</div>
     </div>
-    <div class="award-date">Jun 2023</div>
+    <div class="award-date">Jun. 2023</div>
   </li>
 
   <li class="award-item">
@@ -286,7 +275,7 @@ author_profile: true
       <div class="award-en">Ministry of Education of China – Huawei Future Star Scholarship</div>
       <div class="award-zh">中国教育部 - 华为未来之星奖学金</div>
     </div>
-    <div class="award-date">Dec 2022 &amp; 2023</div>
+    <div class="award-date">Dec. 2022 &amp; 2023</div>
   </li>
 </ul>
 
@@ -304,7 +293,7 @@ author_profile: true
       <div class="award-en">UG Innovation &amp; Entrepreneurship Training Program — Provincial Project</div>
       <div class="award-zh">大学生创新创业训练计划 · 广东省省级项目</div>
     </div>
-    <div class="award-date">Jun 2024</div>
+    <div class="award-date">Jun. 2024</div>
   </li>
 
   <li class="award-item">
@@ -313,7 +302,7 @@ author_profile: true
       <div class="award-en">China Artificial Intelligence Innovation Application Competition — Third Prize </div>
       <div class="award-zh">中国人工智能创新应用大赛 · 三等奖</div>
     </div>
-    <div class="award-date">Feb 2023</div>
+    <div class="award-date">Feb. 2023</div>
   </li>
 
   <li class="award-item">
@@ -322,7 +311,7 @@ author_profile: true
       <div class="award-en">China Undergraduate Mathematical Contest in Modeling — Provincial Second Prize </div>
       <div class="award-zh">全国大学生数学建模竞赛 · 省级二等奖</div>
     </div>
-    <div class="award-date">Sep 2022</div>
+    <div class="award-date">Sep. 2022</div>
   </li>
 
   <li class="award-item">
@@ -331,7 +320,7 @@ author_profile: true
       <div class="award-en">Shenzhen, HK &amp; Macau Undergraduate Maker Competition — Excellence Award </div>
       <div class="award-zh">深港澳大学生创客大赛 · 优秀奖</div>
     </div>
-    <div class="award-date">Dec 2021</div>
+    <div class="award-date">Dec. 2021</div>
   </li>
 
   <li class="award-item">
@@ -340,6 +329,6 @@ author_profile: true
       <div class="award-en">SZU Innovation &amp; Entrepreneurship Competition — Third Prize </div>
       <div class="award-zh">深圳大学创新创业大赛 · 三等奖</div>
     </div>
-    <div class="award-date">Dec 2021</div>
+    <div class="award-date">Dec. 2021</div>
   </li>
 </ul>
